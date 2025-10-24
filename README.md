@@ -1,5 +1,4 @@
-
-  <title>À propos - Travaux Express</title>
+<title>À propos - Travaux Express</title>
   <style>
     body {
       font-family: Arial, sans-serif;
