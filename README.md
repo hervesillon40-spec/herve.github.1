@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
   <title>À propos - Travaux Express</title>
   <style>
     body {
